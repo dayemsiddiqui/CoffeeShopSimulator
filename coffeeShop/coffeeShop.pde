@@ -13,6 +13,6 @@ void setup(){
 }
 void draw(){
 
-
+ellipse(10,10,2,2);
 
 }
