@@ -23,8 +23,3 @@ ellipse(10,10,2,2);
 void mousePressed(){
  ellipse(mouseX,mouseY,25,25); 
 }
-void mousePressed(){
-
-  rect(10,10,25,25);
-
-}
