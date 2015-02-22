@@ -1,0 +1,3 @@
+Objectives
+- Make a class which could generate a graph by providing data
+- Make a timer class.(Basically with this class you can create stopwatch objects)
